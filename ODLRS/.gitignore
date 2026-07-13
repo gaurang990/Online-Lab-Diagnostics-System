@@ -120,3 +120,6 @@ dmypy.json
 .pyre/
 
 *.vscode/
+db.sqlite3
+*.sqlite3
+.env
