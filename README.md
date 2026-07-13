@@ -4,8 +4,6 @@ A complete **Diagnostic Lab Management and Reporting System** built with the **D
 
 This system helps diagnostic centers manage patients, laboratory tests, reports, staff, and administrative operations efficiently.
 
-🌐 **Live Demo:** https://odl-v2.herokuapp.com/
-
 ---
 
 ## ✨ Features
